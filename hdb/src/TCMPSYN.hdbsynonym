@@ -1,0 +1,8 @@
+{
+  "GCPXSADEMO.hdb::SYNTCMPZADAPTER": {
+    "target": {
+      "object": "ZADAPTER",
+      "schema": "TCMP"
+    }
+  }
+}

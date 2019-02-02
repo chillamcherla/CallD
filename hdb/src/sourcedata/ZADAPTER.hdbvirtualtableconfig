@@ -1,0 +1,10 @@
+{
+  "GCPXSADEMO.hdb.sourcedata::ZADAPTER": {
+    "target": {
+      "remote": "GCPFileAdapter",
+      "database": "<NULL>",
+      "schema": "<NULL>",
+      "object": "ZADAPTER.csv"
+    }
+  }
+}

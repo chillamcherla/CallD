@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flowgraph:ContainerNode xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:flowgraph="http://www.sap.com/ndb/flowgraph/1.0" xmi:version="2.0" xmi:id="d6911c7c147a0238f73c238ab5b6f394" name="ProcInsert" runtimeBehavior="PROCEDURE">
+  <annotations key="sap.afm.layout" xmi:id="b2a4e12ecfb898f5ef4445d91c1f18c3">
+    <annotations xmi:id="cef5b488d7fcdde3709fb94ecd7bccc0" key="x" value="10">
+    </annotations>
+    <annotations xmi:id="84886d860f26a36837457ad87c33b6e3" key="y" value="10">
+    </annotations>
+    <annotations xmi:id="3a15a1fb5ea9be00fa625cced477a563" key="width" value="100">
+    </annotations>
+    <annotations xmi:id="b91125521c204cd1e2a8cfe4edc56255" key="height" value="84">
+    </annotations>
+  </annotations>
+  <annotations xmi:id="84d3a29115de0358db5e1d2491523176" key="sap.afm.palette">
+    <annotations xmi:id="19ada2b4f4755d0156ecc9e3962de7a6" key="additions" value=""/>
+  </annotations>
+  <annotations xmi:id="ae1575969455b87c4902a25b4aee5a6b" key="sap.afm.nodeType" value="ContainerNode">
+  </annotations>
+  <annotations xmi:id="d01f6394a1cf684e086b57ad31ee813c" key="sap.afm.nodeInputs">
+  </annotations>
+  <annotations xmi:id="5bd07c53dac0895c0bf78dca31aa9a5c" key="sap.afm.nodeOutputs">
+  </annotations>
+  <annotations xmi:id="68e8fa2d1a83505026615980e06e2b5b" key="sap.im.explicitTypeConversion">
+  </annotations>
+  <nodes xmi:id="3cf6e09092b6e70ba06a2a5c4a439acb" xsi:type="flowgraph:ProcedureNode" name="Procedure" procedureName="GCPXSADEMO.hdb::SYNINSPROC">
+    <annotations key="sap.afm.layout" xmi:id="598bba1c437ae35521cedc1f21055b6d">
+      <annotations xmi:id="d64490a25e20261505853ece3f7f11aa" key="x" value="-18">
+      </annotations>
+      <annotations xmi:id="65934c272c5abf80e0c5a34cb05cddf9" key="y" value="-1">
+      </annotations>
+      <annotations xmi:id="9963910cf95879a2a6d5d699f4b60ac2" key="width" value="120">
+      </annotations>
+      <annotations xmi:id="214ccde85db98d6f5fc06315163c7b53" key="height" value="97">
+      </annotations>
+    </annotations>
+  </nodes>
+</flowgraph:ContainerNode>

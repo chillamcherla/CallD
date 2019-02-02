@@ -1,0 +1,8 @@
+{
+  "GCPXSADEMO.hdb::tcmpsynproc": {
+    "target": {
+      "object": "TRUNC_TABLE_ZADAPTER",
+      "schema": "TCMP"
+    }
+  }
+}

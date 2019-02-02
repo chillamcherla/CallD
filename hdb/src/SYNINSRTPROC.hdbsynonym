@@ -1,0 +1,8 @@
+{
+  "GCPXSADEMO.hdb::SYNINSPROC": {
+    "target": {
+      "object": "INSERT_INTO_ZADAPTER",
+      "schema": "TCMP"
+    }
+  }
+}

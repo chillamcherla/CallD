@@ -1,0 +1,11 @@
+namespace "SourceData";
+
+entity demodata {
+    key RecordMode    : String(1);
+    key SalesOrderID  : Integer not null;
+        OrderDate     : UTCDateTime;
+        CustomerName  : String(100);
+        ProductName   : String(100);
+        OrderQuantity : Integer;
+        Sales         : Decimal(15, 2);
+};

@@ -1,0 +1,8 @@
+{
+  "GCPXSADEMO.hdb::SYNEXTZADAPTER": {
+    "target": {
+      "object": "ZADAPTER",
+      "schema": "EXT"
+    }
+  }
+}

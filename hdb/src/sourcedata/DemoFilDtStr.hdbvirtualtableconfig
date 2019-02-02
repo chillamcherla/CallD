@@ -1,0 +1,10 @@
+{
+  "GCPXSADEMO.hdb.sourcedata::DemoFilDtStr": {
+    "target": {
+      "remote": "FileDataStore",
+      "database": "<NULL>",
+      "schema": "<NULL>",
+      "object": "FXDATA.CSV"
+    }
+  }
+}
